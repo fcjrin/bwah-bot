@@ -1,0 +1,14 @@
+{
+  "name": "bwah-bot",
+  "version": "1.0.0",
+  "description": "Bwah — agent trading memecoin otomatis di Solana (PAPER TRADING).",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
